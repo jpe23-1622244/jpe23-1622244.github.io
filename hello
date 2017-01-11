@@ -6,4 +6,26 @@
 		<body>
 			<h1>Hello World</h1>
 	</body>
+	color:white;
 </html>			
+
+<!DOCTYPE html>
+<html>
+<head>
+<title>Page Title</title>
+</head>
+<body>
+
+<h1>Jason Palmer</h1>
+<p>Welcome to my website man!.</p>
+
+</body>
+</html>
+
+<style>
+body {
+background-image: url('http://dl8.glitter-graphics.net/pub/275/275888kfx8xw1eon.jpg');
+background-attachment: fixed;
+background-repeat: repeat;
+}
+</style>
