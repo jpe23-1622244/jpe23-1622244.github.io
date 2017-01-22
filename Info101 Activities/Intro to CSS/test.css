@@ -1,0 +1,69 @@
+body{
+	
+}
+
+p{
+	
+}
+
+h3{
+	
+}
+
+li{
+	
+}
+
+#Header{
+	width: 500px;
+	margin-left: auto;
+	margin-right: auto;
+	margin-bottom: 10px;
+	border: solid 8px black;
+	text-align: center;
+}
+
+#Header h1{
+
+}
+
+#Leftnav{
+	width: 400px;
+	margin-left: auto;
+	margin-right: auto;
+	margin-bottom: 10px;
+	border: solid 8px black;
+	text-align: center;
+}
+
+#Leftnav img{
+	
+}
+
+#Leftnav ul{
+	list-style-type: none;
+	padding-left: 0px
+}
+
+#Leftnav h3{
+
+}
+
+#Content{
+	width: 700px;
+	margin-left: auto;
+	margin-right: auto;
+	margin-bottom: 10px;
+	border: solid 8px black;
+	text-align: center;
+}
+
+#Footer{
+	width: 500px;
+	margin-left: auto;
+	margin-right: auto;
+	margin-bottom: 10px;
+	border: solid 8px black;
+		text-align: center;
+		border: solid 8px black;
+}
